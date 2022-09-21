@@ -1,5 +1,5 @@
 {
-    "name": "laravel/sanctum",
+    "name": "mewkhaleel/mongodb_sanctum",
     "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
     "keywords": ["laravel", "sanctum", "auth"],
     "license": "MIT",
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Khaleel Rasakh",
+            "email": "Khaleel Rasakh"
         }
     ],
     "require": {
